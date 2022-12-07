@@ -1,0 +1,4 @@
+*.class
+data/
+parsed/
+.DS_Store
